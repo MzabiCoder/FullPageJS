@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  font-size: 4rem; }
+
+.s1 {
+  background: url("https://images.pexels.com/photos/1655817/pexels-photo-1655817.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500") no-repeat center center/cover; }
+  .s1 h1 {
+    text-align: left; }
+
+.s2 {
+  background: url("https://images.pexels.com/photos/821749/pexels-photo-821749.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500") no-repeat center center/cover; }
+  .s2 h1 {
+    text-align: center; }
+
+.s3 {
+  background: url("https://images.pexels.com/photos/1595244/pexels-photo-1595244.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500") no-repeat center center/cover; }
+  .s3 h1 {
+    text-align: right; }
+
+span {
+  background: white !important;
+  font-size: 6rem; }
